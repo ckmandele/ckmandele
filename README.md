@@ -2,17 +2,21 @@
 
 <div>
   <a href="https://youtube.com/" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube title="Follow me and write on the channel" style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/carlosmandele![image](https://github.com/user-attachments/assets/3e3d7f94-ecbd-4f68-b05c-bf1efc68bbca)
 " target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github title="Follow me on GitHub" style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/carloskalombola" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/cmandelek" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin title="Let's make a connection!" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://carlosmandele.github.io/"
+    target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-06402B?style=for-the-badge&logo=icone-site&logoColor=green" alt="Portfolio">
   </a>
 </div>
 
@@ -43,17 +47,30 @@
 
 You can ask me anything, I'll gladly answer it if I can
 
-##
-
 
 <!-- BIO:END -->
 
 
 <!-- SKILLSET:START -->
 
+---
+
+### 📊 Statistics
+
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosmandele&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="470"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosmandele&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
 
 
-## Technology Stack
+## Technologies and Tools
 
 <table>
 
