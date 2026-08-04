@@ -65,7 +65,7 @@ You can ask me anything, I'll gladly answer it if I can
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosmandele&layout=compact&theme=tokyonight&locale=pt-br"
-    width="360"
+    width="350"
   />
 </p>
 
