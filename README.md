@@ -182,5 +182,4 @@ You can ask me anything, I'll gladly answer it if I can
 
 <!-- SKILLSET:END -->
 
-------
-## Projects in progress 👇
+## Popular repositories
