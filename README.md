@@ -181,5 +181,3 @@ You can ask me anything, I'll gladly answer it if I can
 <br/>
 
 <!-- SKILLSET:END -->
-
-## Popular repositories
