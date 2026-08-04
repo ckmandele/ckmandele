@@ -60,7 +60,7 @@ You can ask me anything, I'll gladly answer it if I can
 <p align="left">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosmandele&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    width="470"
+    width="420"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
