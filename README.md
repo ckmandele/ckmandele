@@ -55,20 +55,6 @@ You can ask me anything, I'll gladly answer it if I can
 
 ---
 
-### 📊 Statistics
-
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosmandele&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    width="420"
-  />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosmandele&layout=compact&theme=tokyonight&locale=pt-br"
-    width="350"
-  />
-</p>
-
 
 ## Technologies and Tools
 
