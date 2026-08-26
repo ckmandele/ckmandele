@@ -33,17 +33,9 @@
 </div>
 
 #
- Machine Learning and Artificial Intelligence Engineer/Data Scientist, in progress
-
-🎓 I have a degree in Civil Engineering and Building Technology.
-
-🔭 I am looking for a job opportunity in the area.
-
-🔭 I am also interested in application development and Python software.
-
 💡 I'm also interested in collaborating on any machine learning, artificial intelligence/data science projects, and open source python projects.
 
-☕ I like to play games, travel, listen to good music and drink a good wine (applause)..
+☕ I enjoy gaming, traveling, listening to good music, and toasting to memories with a good wine...
 
 You can ask me anything, I'll gladly answer it if I can
 
